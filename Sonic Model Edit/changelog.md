@@ -1,3 +1,7 @@
+## Sonic Model Edit V3.6
+- Updated Inugami Korone Dlc Outfit for Longer Quills
+- Updated Xmas Dlc Outfit for Longer Quills
+
 ## Sonic Model Edit V3.5
 - New mouth for short quills and long quills
 - reworked long quills sonic
