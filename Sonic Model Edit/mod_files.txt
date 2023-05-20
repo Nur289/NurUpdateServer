@@ -1,9 +1,3 @@
-add raw_longerquill/raw/character/sonic.pac
-add raw_longerquill/raw/dlc/dlccrm/dlccrm.pac
-add raw_longerquill/raw/dlc/dlcddx/dlcddx.pac
-add raw_main_s/raw/character/sonic.pac
-add raw_main_s/raw/dlc/dlccrm/dlccrm.pac
-add raw_main_s/raw/dlc/dlcddx/dlcddx.pac
-add raw_main_s/raw/dlc/dlcholoA/dlcholoA.pac
-add raw_main_s/raw/dlc/dlcxmas/dlcxmas.pac
+add raw_longerquill/raw/dlc/dlcholoA/dlcholoA.pac
+add raw_longerquill/raw/dlc/dlcxmas/dlcxmas.pac
 add mod.ini
