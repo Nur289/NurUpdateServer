@@ -1,0 +1,121 @@
+{
+   "Groups": [
+     {
+       "Name": "Main",
+       "DisplayName": "Options",
+       "Elements": [
+         {
+           "Name": "IncludeDir0",
+           "DisplayName": "SuperSonic Transformation Cutscene Edit",
+           "Description": [
+             "Determines if the game will use SuperSonic Transformation Cutscene Edit"
+           ],
+           "Type": "EventEnum",
+           "MinValue": null,
+           "MaxValue": null,
+           "DefaultValue": "raw_ssevent"
+         },
+         {
+           "Name": "IncludeDir1",
+           "DisplayName": "Sonic",
+           "Description": [
+             "Determines if the game will use Long Quill Sonic or Short Quill Sonic"
+           ],
+           "Type": "SEnum",
+           "MinValue": null,
+           "MaxValue": null,
+           "DefaultValue": "raw_main_s"
+         },
+         {
+           "Name": "IncludeDir2",
+           "DisplayName": "SuperSonic",
+           "Description": [
+             "Determines if the game will use Adventure Quill SuperSonic or Modern Quill SuperSonic"
+           ],
+           "Type": "SSEnum",
+           "MinValue": null,
+           "MaxValue": null,
+           "DefaultValue": "raw_main_ss"
+         },
+		 {
+           "Name": "IncludeDir3",
+           "DisplayName": "SonicAnimation",
+           "Description": [
+             "Determines if the game will use Default or Edited Sonic's Animation"
+           ],
+           "Type": "SAEnum",
+           "MinValue": null,
+           "MaxValue": null,
+           "DefaultValue": "raw_default_anim"
+         }
+       ]
+     }
+   ],
+   "Enums": {
+     "EventEnum": [
+       {
+         "DisplayName": "Enable",
+         "Value": "raw_ssevent",
+         "Description": [
+           "Edited SuperSonic Transformation Cutscene"
+         ]
+       },
+       {
+         "DisplayName": "Disable",
+         "Value": "raw_dummy",
+         "Description": [
+           "Default SuperSonic Transformation Cutscene"
+         ]
+       }
+     ],
+     "SEnum": [
+       {
+         "DisplayName": "Short Quills Sonic",
+         "Value": "raw_main_s",
+         "Description": [
+           "Short Quill Sonic"
+         ]
+       },
+	   {
+         "DisplayName": "Long Quills Sonic",
+         "Value": "raw_longerquill",
+         "Description": [
+           "Long Quill Sonic."
+         ]
+       }	   
+     ],
+	 "SAEnum": [
+       {
+         "DisplayName": "Default Animation",
+         "Value": "raw_default_anim",
+         "Description": [
+           "Default Sonic Animation"
+         ]
+       },
+	   {
+         "DisplayName": "Edited Animation",
+         "Value": "raw_edited_anim",
+         "Description": [
+           "Edited Sonic Animation"
+         ]
+       }
+     ],
+     "SSEnum": [
+       {
+         "DisplayName": "Adventure Quills SuperSonic",
+         "Value": "raw_advquill",
+         "Description": [
+           "Adventure Quill SuperSonic"
+         ]
+       },
+       {
+         "DisplayName": "Modern Quills SuperSonic",
+         "Value": "raw_main_ss",
+         "Description": [
+           "Modern Quill SuperSonic"
+         ]
+       }
+     ]
+   },
+   "IniFile": "mod.ini"
+ }
