@@ -1,3 +1,6 @@
+## Sonic Model Edit v3.7
+- Now SuperSonic has new mouth model
+
 ## Sonic Model Edit V3.6
 - Updated Inugami Korone Dlc Outfit for Longer Quills
 - Updated Holiday Cheer Suit Dlc Outfit for Longer Quills

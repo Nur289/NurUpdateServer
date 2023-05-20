@@ -1,3 +1,6 @@
+add ModelEditConfig.json
+add raw_advquill\raw\character\supersonic.pac
+add raw_main_ss\raw\character\supersonic.pac
 add raw_longerquill/raw/character/sonic.pac
 add raw_longerquill/raw/dlc/dlcholoA/dlcholoA.pac
 add raw_longerquill/raw/dlc/dlcxmas/dlcxmas.pac
