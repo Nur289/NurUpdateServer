@@ -1,3 +1,6 @@
+## Sonic Model Edit V4.2
+- Changed idle animation again
+
 ## Sonic Model Edit V4.1
 - Fixed Texture didn't load properly
 
