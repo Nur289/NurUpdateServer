@@ -1,4 +1,4 @@
-## Sonic Model Edit v3.7
+## Sonic Model Edit v3.9
 - Now SuperSonic has new mouth model
 
 ## Sonic Model Edit V3.6
