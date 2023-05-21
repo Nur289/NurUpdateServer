@@ -1,6 +1,6 @@
 ## Sonic Model Edit V4.0
 - Spoon's HD Sonic Texture Option
-Please redownload this version from Gamebanana so it can work properly, cause i don't know why when using update server texture file got corrupted
+- Please redownload this version from Gamebanana so it can work properly, cause i don't know why when using update server texture file got corrupted
 
 ## Sonic Model Edit v3.9
 - Now SuperSonic has new mouth model
