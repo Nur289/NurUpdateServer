@@ -47,6 +47,17 @@
            "MinValue": null,
            "MaxValue": null,
            "DefaultValue": "raw_default_anim"
+         },
+		 {
+           "Name": "IncludeDir4",
+           "DisplayName": "SonicTexture",
+           "Description": [
+             "Determines if the game will use Default or HD Sonic Texture"
+           ],
+           "Type": "STEnum",
+           "MinValue": null,
+           "MaxValue": null,
+           "DefaultValue": "raw_defaulttexture"
          }
        ]
      }
@@ -113,6 +124,22 @@
          "Value": "raw_main_ss",
          "Description": [
            "Modern Quill SuperSonic"
+         ]
+       }
+     ],
+     "STEnum": [
+       {
+         "DisplayName": "Default Texture",
+         "Value": "raw_defaulttexture",
+         "Description": [
+           "Default Texture"
+         ]
+       },
+       {
+         "DisplayName": "HD Texture",
+         "Value": "raw_HDTexture",
+         "Description": [
+           "HD Texture"
          ]
        }
      ]
