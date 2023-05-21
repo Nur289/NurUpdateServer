@@ -1,6 +1,4 @@
 add ModelEditConfig.json
-add raw_HDTexture/raw/misc/trr_common_texture.pac
-add raw_defaulttexture/raw/misc/trr_common_texture.pac
 add raw_advquill/raw/character/supersonic.pac
 add raw_main_ss/raw/character/supersonic.pac
 add raw_longerquill/raw/character/sonic.pac
