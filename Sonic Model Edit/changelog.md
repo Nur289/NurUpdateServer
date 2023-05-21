@@ -1,3 +1,6 @@
+## Sonic Model Edit V4.0
+- Spoon's HD Sonic Texture Option
+
 ## Sonic Model Edit v3.9
 - Now SuperSonic has new mouth model
 
