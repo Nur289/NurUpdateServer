@@ -1,2 +1,2 @@
-add ModelEditConfig.json
+add raw_edited_anim/raw/text/text_caption.pac
 add mod.ini
