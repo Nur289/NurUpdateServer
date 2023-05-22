@@ -1,3 +1,7 @@
+## Sonic Model Edit V4.3
+- Subtle Mouth Muzzle
+- Fixed SuperSonics afterimages
+
 ## Sonic Model Edit V4.2
 - Changed idle animation again
 
