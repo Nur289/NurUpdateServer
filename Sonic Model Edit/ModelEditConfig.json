@@ -104,10 +104,17 @@
          ]
        },
 	   {
-         "DisplayName": "Edited Animation",
+         "DisplayName": "Edited Animation (Open Hand Boost)",
          "Value": "raw_edited_anim",
          "Description": [
-           "Edited Sonic Animation"
+           "Edited Sonic Animation with Open Hand Boost"
+         ]
+       },
+	   {
+         "DisplayName": "Edited Animation (Closed Hand Boost)",
+         "Value": "raw_edited_anim_closedboost",
+         "Description": [
+           "Edited Sonic Animation with Closed Hand Boost"
          ]
        }
      ],
