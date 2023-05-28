@@ -1,3 +1,8 @@
+## Sonic Model Edit V4.4
+- Cyber Model Support
+- Closed Hand Boost Option
+- Changed Grind Leaning Animation
+
 ## Sonic Model Edit V4.3
 - Subtle Mouth Muzzle
 - Fixed SuperSonics afterimages
