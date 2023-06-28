@@ -1,3 +1,9 @@
+## Sonic Model Edit V4.5
+- New Model
+- Update 2 Support
+- New walk and run animation
+- Changed Jumpball
+
 ## Sonic Model Edit V4.4
 - Cyber Model Support
 - Closed Hand Boost Option
