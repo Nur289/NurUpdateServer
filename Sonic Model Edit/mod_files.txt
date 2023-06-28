@@ -1,3 +1,4 @@
+add raw_NewModel/raw/character/sonic.pac
 add raw_longerquill/raw/character/sonic.pac
 add raw_longerquill/raw/character/soniccyber.pac
 add raw_longerquill/raw/dlc/dlccrm/dlccrm.pac
