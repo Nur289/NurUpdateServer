@@ -93,6 +93,13 @@
          "Description": [
            "Long Quill Sonic."
          ]
+       },
+	   {
+         "DisplayName": "New Sonic model",
+         "Value": "raw_NewModel",
+         "Description": [
+           "New Sonic model."
+         ]
        }	   
      ],
 	 "SAEnum": [
