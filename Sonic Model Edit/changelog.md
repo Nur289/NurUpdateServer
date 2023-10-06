@@ -1,4 +1,4 @@
-## Sonic Model Edit V4.7
+## Sonic Model Edit V4.8
 - New Dash Animation
   
 ## Sonic Model Edit V4.6
