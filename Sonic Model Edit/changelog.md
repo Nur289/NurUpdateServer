@@ -1,5 +1,3 @@
-## Sonic Model Edit V4.8
-- New Dash Animation
   
 ## Sonic Model Edit V4.6
 - Polished New Model
