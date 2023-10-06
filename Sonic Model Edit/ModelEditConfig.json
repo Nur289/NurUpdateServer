@@ -6,17 +6,6 @@
        "Elements": [
          {
            "Name": "IncludeDir0",
-           "DisplayName": "SuperSonic Transformation Cutscene Edit",
-           "Description": [
-             "Determines if the game will use SuperSonic Transformation Cutscene Edit"
-           ],
-           "Type": "EventEnum",
-           "MinValue": null,
-           "MaxValue": null,
-           "DefaultValue": "raw_ssevent"
-         },
-         {
-           "Name": "IncludeDir1",
            "DisplayName": "Sonic",
            "Description": [
              "Determines if the game will use Long Quill Sonic or Short Quill Sonic"
@@ -26,19 +15,8 @@
            "MaxValue": null,
            "DefaultValue": "raw_main_s"
          },
-         {
-           "Name": "IncludeDir2",
-           "DisplayName": "SuperSonic",
-           "Description": [
-             "Determines if the game will use Adventure Quill SuperSonic or Modern Quill SuperSonic"
-           ],
-           "Type": "SSEnum",
-           "MinValue": null,
-           "MaxValue": null,
-           "DefaultValue": "raw_main_ss"
-         },
 		 {
-           "Name": "IncludeDir3",
+           "Name": "IncludeDir1",
            "DisplayName": "SonicAnimation",
            "Description": [
              "Determines if the game will use Default or Edited Sonic's Animation"
@@ -49,7 +27,7 @@
            "DefaultValue": "raw_default_anim"
          },
 		 {
-           "Name": "IncludeDir4",
+           "Name": "IncludeDir2",
            "DisplayName": "SonicTexture",
            "Description": [
              "Determines if the game will use Default or HD Sonic Texture"
@@ -63,23 +41,8 @@
      }
    ],
    "Enums": {
-     "EventEnum": [
-       {
-         "DisplayName": "Enable",
-         "Value": "raw_ssevent",
-         "Description": [
-           "Edited SuperSonic Transformation Cutscene"
-         ]
-       },
-       {
-         "DisplayName": "Disable",
-         "Value": "raw_dummy",
-         "Description": [
-           "Default SuperSonic Transformation Cutscene"
-         ]
-       }
-     ],
-     "SEnum": [
+     "SEnum": 
+	 [
        {
          "DisplayName": "Short Quills Sonic",
          "Value": "raw_main_s",
@@ -122,22 +85,6 @@
          "Value": "raw_edited_anim_closedboost",
          "Description": [
            "Edited Sonic Animation with Closed Hand Boost"
-         ]
-       }
-     ],
-     "SSEnum": [
-       {
-         "DisplayName": "Adventure Quills SuperSonic",
-         "Value": "raw_advquill",
-         "Description": [
-           "Adventure Quill SuperSonic"
-         ]
-       },
-       {
-         "DisplayName": "Modern Quills SuperSonic",
-         "Value": "raw_main_ss",
-         "Description": [
-           "Modern Quill SuperSonic"
          ]
        }
      ],
