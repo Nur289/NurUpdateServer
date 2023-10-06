@@ -1,3 +1,8 @@
+## Sonic Model Edit V4.6
+- Polished New Model
+- Update 3 Support
+- Deleted Adv Quill SS(I Have something that wanna do with adv quill)
+
 ## Sonic Model Edit V4.5
 - New Model
 - Update 2 Support
