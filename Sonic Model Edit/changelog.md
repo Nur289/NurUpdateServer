@@ -1,3 +1,6 @@
+## Sonic Model Edit V4.7
+- New Dash Animation
+  
 ## Sonic Model Edit V4.6
 - Polished New Model
 - Update 3 Support
